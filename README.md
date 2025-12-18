@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Cho%20Sung%20Jun&fontColor=000002&fontSize=90&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Cho%20Sung%20Jun&fontColor=000002&fontSize=90&animation=waving" />
 
 
 <p><h2>🏫 Education</h2></p>
