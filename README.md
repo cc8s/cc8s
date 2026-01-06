@@ -22,9 +22,9 @@
 </div>
 <br/><br/><br/><br/>
 <p><h2>📊 Github Stats</h2></p>
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cc8s&amp;show_icons=true&amp;include_all_commits=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cc8s&amp;layout=compact&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" />
+<p> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cc8s&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cc8s&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
 </p>
 
 
