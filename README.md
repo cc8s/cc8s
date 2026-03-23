@@ -48,7 +48,7 @@
     <td align="center" width="33%">
       <a href="[https://www.instagram.com/jun._.cho](https://www.instagram.com/jun._.cho?igsh=MWJramNwM2Rvb3I1NA==)/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/><br/>
-        [jun._.cho](https://www.instagram.com/jun._.cho?igsh=MWJramNwM2Rvb3I1NA==)/
+        [jun._.cho](https://www.instagram.com/jun._.cho)
       </a>
     </td>
     <td align="center" width="33%">
