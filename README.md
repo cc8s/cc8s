@@ -35,23 +35,22 @@
 </p>
 </div>
 
-<h3>Thank you for your visit!</h3>
-<p>📫 How to reach me</p>
+<p><h2>📫 How to reach me</h2></p>
 <table width="100%">
   <tr>
-    <td align="center" width="35%">
+    <td align="center" width="33.3%">
       <a href="mailto:huey1102@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/><br/>
         huey1102@gmail.com
       </a>
     </td>
-    <td align="center" width="35%">
+    <td align="center" width="33.3%">
       <a href="https://instagram.com/jun._.cho">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/><br/>
         @jun._.cho
       </a>
     </td>
-    <td align="center" width="35%">
+    <td align="center" width="33.3%">
       <a href="tel:010-2326-2745">
         <img src="https://img.shields.io/badge/Phone-000000?style=flat-square&logo=whatsapp&logoColor=white"/><br/>
         010-2326-2745
