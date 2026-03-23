@@ -4,7 +4,9 @@
 
 <p><h2>🏫 Education</h2></p>
 <div>
-  <a href="https://www.gachon.ac.kr/sites/cs/index.do" rel="nofollow">가천대학교 컴퓨터공학 전공 (컴퓨터공학학과)</a> 3학년 2학기 재학중 (2022.03 ~)<br/>
+  <a href="https://www.gachon.ac.kr/sites/cs/index.do" rel="nofollow">가천대학교 컴퓨터공학 전공 (컴퓨터공학학과)</a> 4학년 1학기 재학중 (2022.03 ~)<br/><br/>
+
+<p><h2>☘️ Experiences</h2></p>
   <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 8th Android 파트 수료(2025.03 ~ 2025.08)<br/>
   <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 9th Android 파트장 (2025.09 ~ 2026.02)<br/>
   <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 9th Spring Boot 파트 수료(2025.09 ~ 2026.02)<br/>
@@ -24,7 +26,6 @@
 
 
 </div>
-<br/><br/><br/><br/>
 <p><h2>📊 Github Stats</h2></p>
 <p>
   <img height="180em" src="https://github-readme-stats-tau-fawn-47.vercel.app/api?username=cc8s&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
