@@ -51,7 +51,7 @@
       </a>
     </td>
     <td align="center" width="33.3%">
-      <a href="tel:010-2326-2745">
+      <a href="tel:010&#8209;2326&#8209;2745">
         <img src="https://img.shields.io/badge/Phone-000000?style=flat-square&logo=whatsapp&logoColor=white"/><br/>
         010-2326-2745
       </a>
