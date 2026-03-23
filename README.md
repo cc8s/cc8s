@@ -5,18 +5,22 @@
 <p><h2>🏫 Education</h2></p>
 <div>
   <a href="https://www.gachon.ac.kr/sites/cs/index.do" rel="nofollow">가천대학교 컴퓨터공학 전공 (컴퓨터공학학과)</a> 3학년 2학기 재학중 (2022.03 ~)<br/>
-  <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 8th Android (2025.03 ~)<br/>
-  <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 9th Android 파트장 (2025.09 ~)<br/>
-  <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 9th Spring Boot (2025.09 ~)<br/>
+  <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 8th Android 파트 수료(2025.03 ~ 2025.08)<br/>
+  <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 9th Android 파트장 (2025.09 ~ 2026.02)<br/>
+  <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 9th Spring Boot 파트 수료(2025.09 ~ 2026.02)<br/>
+  <a href="https://drive.google.com/file/d/1CVfMbN4KWD85fxfz3Mb6GBR1b3KO6_bZ/view?usp=sharing" rel="nofollow">펄어비스</a>과천 펄어비스 홈 원 라이브 QA센터 QA(2026.02)<br/>
+  <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 10th 가천대 회장(2026.02 ~)<br/>
 </div>
 <br/><br/><br/><br/>
+
 
 <div>
 <h2>🌳 Projects</h2> <br/>
-[Android] Hwaroak App 2025.06.01 ~ 2025.08.23<br/><br/>
+[Android] Hwaroak App 2025.06.01 ~ 2025.08.23<br/>
+[Android] Gift 4U App 2025.11.24 ~ 2025.12.21<br/>
+[Spring Boot] Nova 2025.12.18 ~ 2026.02.20</br>
 </div>
 <br/><br/><br/><br/>
-
 
 
 </div>
