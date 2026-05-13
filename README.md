@@ -12,9 +12,9 @@
   <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 8th Android 파트 수료(2025.03 ~ 2025.08)<br/>
   <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 9th Android 파트장 (2025.09 ~ 2026.02)<br/>
   <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 9th Spring Boot 파트 수료(2025.09 ~ 2026.02)<br/>
-  <a href="https://drive.google.com/file/d/1CVfMbN4KWD85fxfz3Mb6GBR1b3KO6_bZ/view?usp=sharing" rel="nofollow">펄어비스</a>과천 펄어비스 홈 원 라이브 QA센터 QA(2026.02)<br/>
+  <a href="https://drive.google.com/file/d/1CVfMbN4KWD85fxfz3Mb6GBR1b3KO6_bZ/view?usp=sharing" rel="nofollow">펄어비스</a> 과천 펄어비스 홈 원 라이브 QA센터 QA(2026.02)<br/>
   <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 10th 가천대 회장(2026.02 ~)<br/>
-  <a href="https://www.pearlabyss.com/ko-kr/Board/Detail?_boardNo=13581" rel="nofollow">펄어비스 해커톤 대회</a>딩가딩 프로젝트 교육 서포터즈(2026.05 ~)<br/>
+  <a href="https://www.pearlabyss.com/ko-kr/Board/Detail?_boardNo=13581" rel="nofollow">펄어비스 해커톤 대회</a> 딩가딩 프로젝트 교육 서포터즈(2026.05 ~)<br/>
 </div>
 <br/><br/><br/>
 
