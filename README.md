@@ -1,5 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Cho%20Sung%20Jun&fontColor=ffffff&fontSize=90&animation=waving">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Cho%20Sung%20Jun&fontColor=E5E7EB
+&fontSize=90&animation=waving">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Cho%20Sung%20Jun&fontColor=000002&fontSize=90&animation=waving" />
 </picture>
 
